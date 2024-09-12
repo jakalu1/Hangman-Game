@@ -13,8 +13,8 @@ This is a Python implementation of the classic Hangman game, using the Pygame li
 2. Setup
 * Clone the repository: First, clone this repository to your local machine:
 
-* git clone https://github.com/your-repo/hangman-game.git
-* cd hangman-game
+git clone https://github.com/your-repo/hangman-game.git
+cd hangman-game
 
 * Download NLTK data: After installing the nltk package, you need to download the word corpus. Open a Python shell and run:
 
